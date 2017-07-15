@@ -1,0 +1,22 @@
+{
+  "name": "react-modal",
+  "version": "1.0.0",
+  "description": "react modals:includes alert confirm prompt select piker imageView tips",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "react",
+    "modal",
+    "alert",
+    "confirm",
+    "prompt",
+    "select",
+    "picker",
+    "imageVIew",
+    "tip"
+  ],
+  "author": "flyking",
+  "license": "ISC"
+}
